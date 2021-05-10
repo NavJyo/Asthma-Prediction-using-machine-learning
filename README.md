@@ -25,7 +25,8 @@ Asthma
 
 Overview
 
-This is a simple Flask web app which predicts whether a patient is having asthma or not.
+This is a simple Flask web app which predicts whether a patient is having asthma or not. 
+![Asthma](https://user-images.githubusercontent.com/36689965/117608200-37c9d500-b17b-11eb-886e-41ffd0b6141b.JPG)
 
 Motivation
 
@@ -33,7 +34,7 @@ With the amount of new diseases coming up every day, there is a need for an effe
 
 Installation
 
-The Code is written in Python 3.6.10. If you don't have Python installed you can find it here . If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
+The Code is written in Python 3.6.10. If you don't have Python installed you can find it here[](https://python.org) . If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
 
 pip install -r requirements.txt
 
