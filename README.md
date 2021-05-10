@@ -2,13 +2,14 @@ Asthma Prediction:
 
 Table of Content
 
-1.Demo
-2.Overview
-3.Motivation
-4.Installation
-5.Deployement on Heroku
-6.Directory Tree
-7.Bug / Feature Request
+  1.Demo 
+  2.Overview
+  3.Motivation
+  4.Installation
+  5.Deployement on Heroku
+  6.Directory Tree
+  7.Bug / Feature Request
+
 Demo
 
 Link: https://stinkyasthma.herokuapp.com
