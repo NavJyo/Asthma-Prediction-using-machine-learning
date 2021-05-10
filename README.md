@@ -1,14 +1,14 @@
-Chronic Kidney Disease Prediction:
+Asthma Prediction:
 
 Table of Content
 
-Demo
-Overview
-Motivation
-Installation
-Deployement on Heroku
-Directory Tree
-Bug / Feature Request
+1.Demo
+2.Overview
+3.Motivation
+4.Installation
+5.Deployement on Heroku
+6.Directory Tree
+7.Bug / Feature Request
 Demo
 
 Link: https://stinkyasthma.herokuapp.com
@@ -41,7 +41,7 @@ Directory Tree
 
 ├── template
 
-│ ├── kidney.html
+│ ├── Asthma.html
 
 ├── Procfile
 
@@ -49,7 +49,7 @@ Directory Tree
 
 ├── app.py
 
-├── kidney.pkl
+├── Asthma.pkl
 
 ├── requirements.txt
 
