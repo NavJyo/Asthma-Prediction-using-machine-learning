@@ -57,3 +57,7 @@ Bug / Feature Request If you find a bug (the website couldn't handle the query a
 
 Technologies Used
 
+![flask1](https://user-images.githubusercontent.com/36689965/117607201-17991680-b179-11eb-9f93-ae1b813809f6.jpg)
+![python](https://user-images.githubusercontent.com/36689965/117607228-297ab980-b179-11eb-9fd4-2f05d44d7e3a.jpg)
+![sklearn](https://user-images.githubusercontent.com/36689965/117607239-2da6d700-b179-11eb-819b-812dfa8defe4.png)
+![heroku](https://user-images.githubusercontent.com/36689965/117607250-339cb800-b179-11eb-9f11-f2e11772313e.png)
